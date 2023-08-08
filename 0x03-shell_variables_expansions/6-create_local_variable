@@ -1,3 +1,2 @@
-alias
-an=sighn
-school
+#!/bin/bash
+BEST="School"
