@@ -1,4 +1,2 @@
-alias
-an=sign
-best 
-school
+#!/bin/bash
+export BEST="School"
